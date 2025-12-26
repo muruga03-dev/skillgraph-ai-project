@@ -1,0 +1,5 @@
+{
+  "name": " SkillGraph AI",
+  "description": "An AI-powered career guidance platform that analyzes skills, predicts job roles, generates personalized study plans, and provides interview preparation using Gemini AI.",
+  "requestFramePermissions": []
+}
